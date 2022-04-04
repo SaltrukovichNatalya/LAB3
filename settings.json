@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "vscjava.vscode-java-pack",
+    "editor.formatOnSave": true,
+    "todohighlight.isEnable": false
+}
