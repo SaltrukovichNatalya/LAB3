@@ -3,5 +3,21 @@
     {
         "key": "alt+`",
         "command": "todohighlight.toggleHighlight"
+    },
+    {
+        "key": "ctrl+numpad5",
+        "command": "java.open.formatter.settings"
+    },
+    {
+        "key": "ctrl+numpad3",
+        "command": "java.formatterSettings"
+    },
+    {
+        "key": "alt+numpad8",
+        "command": "workbench.extensions.action.showRecommendedKeymapExtensions"
+    },
+    {
+        "key": "alt+numpad7",
+        "command": "workbench.action.openSnippets"
     }
 ]
