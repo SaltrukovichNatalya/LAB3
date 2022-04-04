@@ -2,5 +2,6 @@
     "files.autoSave": "onFocusChange",
     "editor.defaultFormatter": "vscjava.vscode-java-pack",
     "editor.formatOnSave": true,
-    "todohighlight.isEnable": false
+    "todohighlight.isEnable": false,
+    "java.format.settings.url": ".vscode/java-formatter.xml"
 }
